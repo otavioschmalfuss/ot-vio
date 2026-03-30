@@ -1,1 +1,1 @@
-<a href="https://app.rocketseat.com.br/me/otavioschmalfuss"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=otavioschmalfuss&type=card" width="280" alt="Otavio Espindola's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/otavioschmalfuss"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=otavioschmalfuss&type=card" width="280" alt="Otavio Espindola's Rocket ID"/></a><a 
